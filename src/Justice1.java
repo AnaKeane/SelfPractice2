@@ -1,8 +1,12 @@
 public class Justice1 {
+
+    int b;
+
     public static void main(String[] args) {
-        //Supermen
+
         //Batmen
         // coming more
+       
 
     }
 }
